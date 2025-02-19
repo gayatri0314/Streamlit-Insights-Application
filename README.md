@@ -6,8 +6,8 @@ Features
 File Upload: Supports CSV file uploads for analysis.
 
 Data Cleaning & Analysis:
-Identifies and fills missing values.
-Displays dataset information and statistical summaries.
+Identifies and fills missing values./
+/Displays dataset information and statistical summaries.
 
 Visualizations:
 Heatmap for missing values.
