@@ -59,7 +59,7 @@ def generate_graph_description(df, plot_type, selected_col=None, correlation=Non
 col1, col2 = st.columns([1, 2])  
 
 with col1:
-    st.image(r"C:\Users\Gayatri\Desktop\Streamlit\BI image.jpeg", use_column_width=True)
+    st.image(r"C:\Users\Gayatri\Desktop\Streamlit\statistics-clipart-statistics.jpg", use_column_width=True)
 
 with col2:
     st.markdown("## Streamlit Insights Application")
